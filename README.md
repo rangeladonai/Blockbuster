@@ -1,4 +1,4 @@
-﻿# filmesSENAI-megafilmes
-<h2>PROJETO IGUAL AO "MegaFilmes" PORÉM, SEM PADRÃO DE PROJETO E SEM PADRÃO DE CODIGO, APENAS PARA FINS EDUCATIVOS.</h2>
+﻿# Blockbuster: Filmes-Senai
+<h2>Projeto desenvolvido como trabalho do Curso Desenvolvimento de Sistemas - Senai</h2>
 <h4>Estudantes: Rangel Adonai, Daniel Braz, João Pedro, Rickelme Barreto</h4>
 "# Blockbuster" 
